@@ -1,0 +1,1 @@
+# A generator app, where the user can generate a variety of different things. Logic will be made in Python, Frontend will be Flask and PyVibe, and many modules will be used for creation.
