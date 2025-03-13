@@ -1,0 +1,24 @@
+# Main Packages that install their own dependancies:
+
+Flask
+pyvibe
+
+
+
+
+
+
+
+# All packages needed:
+
+blinker      
+click        
+Flask       
+itsdangerous 
+Jinja2       
+MarkupSafe   
+pip          
+pyvibe       
+Werkzeug
+
+
